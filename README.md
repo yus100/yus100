@@ -1,7 +1,5 @@
 ## Hi there 👋
 - 🔭 I’m currently working on AI research
-- Mechanistic Interpretability research using SAEs on deceptive behavior in LLMs
-- MAGS (Liquid Dependency/Knowledge Graphs)
 - Crypto investment @ FranklinDAO
 <!--
 **yus100/yus100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
