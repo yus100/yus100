@@ -1,6 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working on AI research
-- Crypto investment @ FranklinDAO
 <!--
 **yus100/yus100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
