@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Stan. AI/ML Research.
+I'm Stan. ML Research.
 
 Contact me at stantyu9@gmail.com.
 
