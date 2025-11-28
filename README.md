@@ -1,10 +1,8 @@
 ## Hi there 👋 Im Stan
 
-I'm at Penn studying CIS, Math, FInance/Stats in the M&T program.
+I'm at Penn studying CIS, Math, Finance/Stats in the M&T program (also a Master's in CIS concentrating in AI).
 
 I do ML research/build cool projects.
-
-Investing in early-stage builders at Dorm Room Fund.
 
 Contact me at stantyu9@gmail.com
 
