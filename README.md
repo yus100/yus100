@@ -1,4 +1,4 @@
-## Hi there 👋 Im Stan
+## Hi there 👋 I'm Stan
 
 I'm currently at Penn.
 
