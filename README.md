@@ -1,9 +1,7 @@
 ## Hi there 👋 I'm Stan
 
-I'm currently at Penn.
+I'm currently at Ramp.
 
-I do ML research/build cool projects.
+Otherwise, you'll probably find me at Penn doing ML research or building cool projects.
 
-Contact me at stantyu9@gmail.com
-
-More info at stanley-yu.com
+Contact me at stantyu9@gmail.com. Always happy to talk to interesting people.
